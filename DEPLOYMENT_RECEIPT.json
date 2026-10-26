@@ -1,0 +1,14 @@
+{
+  "project": "george-stephenson-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "AxYvUhByHUb7LcjfUmgBA6bjh3fHL2hNajZ8TU5irVUL",
+  "vault_account": "FejLuR4UhYjFw2dEmzSU3ZfH3ZuKP7BDwvGnTq8bwxHp",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "42oawfudU45QMMWwkmHYEAEVqE2ziRwoQWzbTAdM2oZVURMtCCg2n3j1J7KXnLsZZ8DLdK6UdutPfyJVy5UQjk5y",
+  "account_tx": "4L99n3YH2CgGC57cDJczUHBqP4osyJ6nyK7EcywUr6T1P691XzBnG64UrBaiq6su3NkjSncQEbFFoYPxcRMo5FRX",
+  "mint_tx": "5VxRmWaro1iCzfxZjLsZFeE7TCq1UUQgAarjnPeic6H5z8mTB9vY6WpNgN5dvD7tN5NBknMPq6a2aY4s75hyGTRM",
+  "solana_explorer_mint": "https://explorer.solana.com/address/AxYvUhByHUb7LcjfUmgBA6bjh3fHL2hNajZ8TU5irVUL?cluster=devnet",
+  "timestamp": "2026-10-26 16:34:27 UTC"
+}
